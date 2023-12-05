@@ -3,7 +3,7 @@
     "healthy": true,
     "supported": true,
     "healthy_error": null,
-    "location": "/home/runner/work/catalog/catalog/stable/sonarr/16.0.14",
+    "location": "/home/runner/work/catalog/catalog/stable/sonarriv/16.0.14",
     "last_update": "2023-12-05 12:29:12",
     "required_features": [
       "definitions/gpuConfiguration",
@@ -17,7 +17,7 @@
     "chart_metadata": {
       "kubeVersion": ">=1.24.0",
       "apiVersion": "v2",
-      "name": "sonarr",
+      "name": "sonarriv",
       "version": "16.0.14",
       "appVersion": "4.0.0.733",
       "description": "Smart PVR for newsgroup and bittorrent users",
@@ -36,7 +36,7 @@
           "url": "https://truecharts.org"
         }
       ],
-      "keywords": ["sonarr", "torrent", "usenet"],
+      "keywords": ["sonarriv", "torrent", "usenet"],
       "dependencies": [
         {
           "name": "common",
@@ -3885,7 +3885,7 @@
     "healthy": true,
     "supported": true,
     "healthy_error": null,
-    "location": "/home/runner/work/catalog/catalog/stable/sonarr/16.0.12",
+    "location": "/home/runner/work/catalog/catalog/stable/sonarriv/16.0.12",
     "last_update": "2023-12-05 12:29:12",
     "required_features": [
       "definitions/gpuConfiguration",
@@ -3899,7 +3899,7 @@
     "chart_metadata": {
       "kubeVersion": "1.24.0",
       "apiVersion": "v2",
-      "name": "sonarr",
+      "name": "sonarriv",
       "version": "16.0.12",
       "appVersion": "4.0.0.733",
       "description": "Smart PVR for newsgroup and bittorrent users",
@@ -3918,7 +3918,7 @@
           "url": "https://truecharts.org"
         }
       ],
-      "keywords": ["sonarr", "torrent", "usenet"],
+      "keywords": ["sonarriv", "torrent", "usenet"],
       "dependencies": [
         {
           "name": "common",
